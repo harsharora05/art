@@ -1,5 +1,5 @@
 function showart1(){
-    debugger;
+    
     const idname = document.getElementById('art1').value;
     console.log(idname);
     sessionStorage.setItem("value" , idname);

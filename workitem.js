@@ -1,5 +1,4 @@
 window.addEventListener('load' ,() =>{
-    debugger;
     let val = sessionStorage.getItem('value')
 
 
