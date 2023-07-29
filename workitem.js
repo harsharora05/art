@@ -13,23 +13,23 @@ window.addEventListener('load' ,() =>{
 
     else if(val == 'art2'){
         document.getElementById("workImg").src = "images/art2.jpg"; 
-        document.getElementById('workTitle').innerHTML = "A Sunday Afternoon on the Island of La Grande Jatte";
-        document.getElementById('workAuthor').innerHTML = "Georges Seurat";
-        document.getElementById('workYear').innerHTML = "1884–1886";
+        document.getElementById('workTitle').innerHTML = "Perseus and Andromeda";
+        document.getElementById('workAuthor').innerHTML = "Peter Paul Rubens";
+        document.getElementById('workYear').innerHTML = "1622";
     }
 
     else if(val == 'art3'){
         document.getElementById("workImg").src = "images/art3.jpg"; 
         document.getElementById('workTitle').innerHTML = "The Harvesters ";
-        document.getElementById('workAuthor').innerHTML = "Pieter Bruegel the Elder";
+        document.getElementById('workAuthor').innerHTML = "Pieter Bruegel";
         document.getElementById('workYear').innerHTML = "1565";
     }
 
     else if(val == 'art4'){
-        document.getElementById("workImg").src = "images/art4.jpeg"; 
-        document.getElementById('workTitle').innerHTML = "Liberty Leading the People";
-        document.getElementById('workAuthor').innerHTML = "Eugène Delacroix";
-        document.getElementById('workYear').innerHTML = "1830";
+        document.getElementById("workImg").src = "images/art4.webp"; 
+        document.getElementById('workTitle').innerHTML = "The Night Watch";
+        document.getElementById('workAuthor').innerHTML = " Rembrandt van";
+        document.getElementById('workYear').innerHTML = "1642";
     }
 
     else if(val == 'art5'){
@@ -40,7 +40,7 @@ window.addEventListener('load' ,() =>{
     }
 
     else if(val == 'art6'){
-        document.getElementById("workImg").src = "images/art6.jpg"; 
+        document.getElementById("workImg").src = "images/art6.webp"; 
         document.getElementById('workTitle').innerHTML = "The Card Players ";
         document.getElementById('workAuthor').innerHTML = " Paul Cézanne";
         document.getElementById('workYear').innerHTML = "1894–95";
