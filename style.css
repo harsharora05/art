@@ -316,6 +316,7 @@ a{
 
 .All-work .heading{
     margin: 1.6rem 0rem;
+    font-size: 8rem;
 }
 
 
@@ -375,6 +376,7 @@ a{
 
 .about-page .heading{
     margin: 3rem 0rem;
+    font-size: 8rem;
 }
 
 .about-page .about-page-img{
@@ -602,5 +604,8 @@ a{
      .about-img img {
         width: 90vw;
      }
+     .welcome-bg-text {
+        height: 22%;
+      }
 
 }
